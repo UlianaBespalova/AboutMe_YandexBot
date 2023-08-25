@@ -1,7 +1,6 @@
 import os
 
-BOT_TOKEN = "6484157181:AAHr_CTVIVqsg9_z24P-uC1LgtY2Zxv4Zmw"
-# BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 START_COMMAND = "start"
 HELP_COMMAND = "help"
